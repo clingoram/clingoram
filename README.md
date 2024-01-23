@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mavis!!
-<br>
+<hr>
 <!--
 **clingoram/clingoram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   <li>Laravel</li>
   <li>Spring Boot</li>
 </ol>
-<br>
+
+<hr>
+
 ### :hammer: Tools
 <ol>
   <li>Version Control(Git)</li>
