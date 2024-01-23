@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Mavis!!
 <hr>
+
 <!--
 **clingoram/clingoram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
   <li>Laravel</li>
   <li>Spring Boot</li>
 </ol>
-
 <hr>
-
 ### :hammer: Tools
 <ol>
   <li>Version Control(Git)</li>
