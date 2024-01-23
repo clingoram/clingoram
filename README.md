@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I'm Mavis!!
+I'm Mavis!! A back-end Engineer.
 <hr>
 
 <!--
@@ -33,4 +33,9 @@ Here are some ideas to get you started:
   <li>Version Control(Git)</li>
   <li>Open Source Projects</li>
   <li>PHPUnit</li>
+  <li>Docker</li>
 </ol>
+<hr>
+
+### :rocket: What do I do now?
+I'm learning Python now.
