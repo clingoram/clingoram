@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### :hammer: Tools
 <ol>
   <li>Version Control(Git)</li>
-  <li>Open Source Projects</li>
   <li>Unit Test/Feature Test</li>
   <li>Docker</li>
+  <li>Postman</li>
 </ol>
 <hr>
 
