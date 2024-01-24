@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <ol>
   <li>Version Control(Git)</li>
   <li>Open Source Projects</li>
-  <li>Unit Test/Feature Test For PHP</li>
+  <li>Unit Test/Feature Test</li>
   <li>Docker</li>
 </ol>
 <hr>
