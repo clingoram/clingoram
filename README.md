@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h6>Framework</h6>
 <ol>
   <li>Laravel</li>
-  <li>Spring Boot</li>
+  <li>A little bit Spring Boot</li>
 </ol>
 <h6>Database</h6>
 <ol>
