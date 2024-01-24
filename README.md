@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 I'm Mavis!!<br>
-A self-taught Back-End Engineer.
+A self-taught Back-End Developer.
 <hr>
 
 <!--
