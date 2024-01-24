@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 <hr>
 
 ### :rocket: What do I do now?
-I'm learning Python now.
+Learning Python.<br>
+Learning data structures and algorithms.
