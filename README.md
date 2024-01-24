@@ -22,10 +22,16 @@ Here are some ideas to get you started:
   <li>PHP</li>
   <li>Java</li>
 </ol>
-<h6>Frameworks</h6>
+<h6>Framework</h6>
 <ol>
   <li>Laravel</li>
   <li>Spring Boot</li>
+</ol>
+<h6>Database</h6>
+<ol>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>A little bit NoSQL(Firebase)</li>
 </ol>
 <hr>
 
