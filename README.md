@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I'm Mavis!! A back-end Engineer.
+I'm Mavis!! A self-taught back-end Engineer.
 <hr>
 
 <!--
