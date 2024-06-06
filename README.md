@@ -41,9 +41,10 @@ Here are some ideas to get you started:
   <li>Unit Test/Feature Test</li>
   <li>Docker</li>
   <li>Postman</li>
+  <li>CI/CD</li>
 </ol>
 <hr>
 
 ### :rocket: What do I do now?
-:point_right: Learning Python.<br>
+:point_right: Looking for a new opportunity.<br>
 :point_right: Learning data structures and algorithms.
