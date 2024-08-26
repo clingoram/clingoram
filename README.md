@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 
 ### :rocket: What do I do now?
 :point_right: Looking for a new opportunity.<br>
-:point_right: Learning data structures and algorithms.
+:point_right: Learning data structures and algorithms.<br>
+:point_right: Taking <a href = "https://pll.harvard.edu/course/cs50-introduction-computer-science"> CS50</a> courses from Harvard University.
