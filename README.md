@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <ol>
   <li>MySQL</li>
   <li>PostgreSQL</li>
-  <li>A little bit NoSQL(Firebase)</li>
+  <li>A little bit NoSQL(Firebase and Redis)</li>
 </ol>
 <hr>
 
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <li>Docker</li>
   <li>Postman</li>
   <li>CI/CD</li>
+  <li>Linux</li>
 </ol>
 <hr>
 
