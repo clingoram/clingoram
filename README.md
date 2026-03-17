@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <ol>
   <li>PHP</li>
   <li>Java</li>
+  <li>Node.js</li>
 </ol>
 <h6>Framework</h6>
 <ol>
@@ -31,18 +32,18 @@ Here are some ideas to get you started:
 <ol>
   <li>MySQL</li>
   <li>PostgreSQL</li>
-  <li>A little bit NoSQL(Firebase and Redis)</li>
+  <li>Redis</li>
 </ol>
 <hr>
 
 ### :hammer: Tools
 <ol>
   <li>Version Control(Git)</li>
-  <li>Unit Test/Feature Test</li>
+  <li>Unit Test/Integration Test</li>
   <li>Docker</li>
   <li>Postman</li>
   <li>CI/CD</li>
-  <li>Linux</li>
+  <li>Linux(Ubuntu)</li>
 </ol>
 <hr>
 
